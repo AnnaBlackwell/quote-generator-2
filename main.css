@@ -155,3 +155,9 @@ p.quote {
   font-size: 18pt;
   text-align: center;
 }
+
+body {
+  background-image: url(images/frozenwheat.jpg);
+  width: 100%;
+  position: fixed;
+}
