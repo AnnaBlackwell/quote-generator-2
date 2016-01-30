@@ -85,7 +85,6 @@ footer {
   margin-top: 40px;
   width: 100%;
   bottom: 0;
-  position: fixed;
 }
 
 /*Blog preview
@@ -146,8 +145,8 @@ div .quotecontainer {
 }
 
 a#newquotebutton {
-  margin-left: 45%;
-  margin-right: 45%;
+  margin-left: 40%;
+  margin-right: 40%;
 }
 
 p.quote {
@@ -159,5 +158,4 @@ p.quote {
 body {
   background-image: url(images/frozenwheat.jpg);
   width: 100%;
-  position: fixed;
 }
