@@ -150,3 +150,8 @@ a#newquotebutton {
   margin-right: 45%;
 }
 
+p.quote {
+  font-family: "Dancing script", cursive;
+  font-size: 18pt;
+  text-align: center;
+}
